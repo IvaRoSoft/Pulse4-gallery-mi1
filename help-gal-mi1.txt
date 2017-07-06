@@ -1,6 +1,6 @@
 Môžete vyskúšať skript gal-mi1.php
 
-https://github.com/IvaRoSoft
+https://github.com/IvaRoSoft/Pulse4-gallery-mi1
 
 Help:
 
@@ -18,7 +18,7 @@ Táto galéria sa neriadi nastavením v config.php !
 
 You can try the script gal-mi1.php
 
-https://github.com/IvaRoSoft
+https://github.com/IvaRoSoft/Pulse4-gallery-mi1
 
 Help:
 
